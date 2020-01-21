@@ -4,6 +4,6 @@ module Memorable
   end
 
   def count
-    self.all.count
+    all.count
   end
 end
